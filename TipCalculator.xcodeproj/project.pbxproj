@@ -9,11 +9,11 @@
 /* Begin PBXBuildFile section */
 		55C309BA19C28AFE00658D79 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 55C309B919C28AFE00658D79 /* main.m */; };
 		55C309BD19C28AFE00658D79 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 55C309BC19C28AFE00658D79 /* AppDelegate.m */; };
-		55C309C019C28AFE00658D79 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 55C309BF19C28AFE00658D79 /* ViewController.m */; };
 		55C309C319C28AFE00658D79 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55C309C119C28AFE00658D79 /* Main.storyboard */; };
 		55C309C519C28AFE00658D79 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 55C309C419C28AFE00658D79 /* Images.xcassets */; };
 		55C309C819C28AFE00658D79 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 55C309C619C28AFE00658D79 /* LaunchScreen.xib */; };
 		55C309D419C28AFE00658D79 /* TipCalculatorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 55C309D319C28AFE00658D79 /* TipCalculatorTests.m */; };
+		55C309DE19C2991200658D79 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 55C309BF19C28AFE00658D79 /* ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -219,7 +219,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				55C309C019C28AFE00658D79 /* ViewController.m in Sources */,
+				55C309DE19C2991200658D79 /* ViewController.m in Sources */,
 				55C309BD19C28AFE00658D79 /* AppDelegate.m in Sources */,
 				55C309BA19C28AFE00658D79 /* main.m in Sources */,
 			);
